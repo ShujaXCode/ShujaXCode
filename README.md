@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shuja (@shujanaqvifalcon)
+# Hi there 👋 I'm Shuja (@ShujaXCode)
 
 - 🔭 I’m Full Stack Engineer with extensive experience in both Web and Mobile App Development.
 - 🌱 My passion for innovation and learning drives me to constantly stay up-to-date with the latest advancements in technology. My expertise spans across multiple programming languages, and I have honed my skills in various Javascript and Python frameworks.
